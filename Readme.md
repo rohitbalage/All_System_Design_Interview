@@ -1,8 +1,8 @@
 # :man_technologist: All System Design Interview
 
-## This repository depitcs my practice System Designs.
+## This repository depitcs My practice System Designs.
 
-# :floppy_disk: Programs listed here:
+# :floppy_disk: High level/ Low Level:
 
 <details>
   <summary><b>High Level Design</b></summary>
