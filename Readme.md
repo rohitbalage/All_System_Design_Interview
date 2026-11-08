@@ -14,7 +14,29 @@
 
 ---
 
-# 💾 High level/ Low Level:
+# 🌎 How to Design large Systems
+
+<details open>
+  <summary><b>👨‍💻 How to design a system</b></summary>
+
+<br/>
+
+#
+
+| # | step by step guide on designing |
+|---:|---|
+| 1 | The ultimate system design guide |
+| 2 | Design goals |
+| 3 | Networking buzzwords |
+| 4 | Communication buzzwords |
+| 5 | Database and Storage buzzwords |
+| 6 | Caching Deepdives |
+
+</details>
+
+<br/>
+
+
 
 <details open>
   <summary><b>🏗️ High Level Design</b></summary>
@@ -55,6 +77,13 @@
 | 29 | Distributed Message Queue |
 | 30 | Distributed Cache |
 | 31 | Distributed Key-Value Store (DynamoDB) |
+| 32 | Instagram feed |
+| 33 | Youtube |
+| 32 | WhatsApp |
+| 32 | Search System |
+| 32 | Airbnb |
+| 32 | Distributed logging |
+| 32 | OPT service |
 
 </details>
 
