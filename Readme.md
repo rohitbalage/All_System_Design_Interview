@@ -45,7 +45,7 @@
 
 # High Level Design
 
-| # | System Design |
+| # |High level System Designs |
 |---:|---|
 | 1 | Tiny URL (URL Shorter) |
 | 2 | News Feed (Twitter,, X) |
@@ -96,7 +96,7 @@
 
 # Basic sorting algorithms in C++
 
-| # | Low Level Design |
+| # | Low Level Designs |
 |---:|---|
 | 1 | LRU Cache |
 
