@@ -16,7 +16,7 @@
 
 # 🌎 How to Design large Systems
 
-<details open>
+<details>
   <summary><b>👨‍💻 How to design a system</b></summary>
 
 <br/>
@@ -38,7 +38,7 @@
 
 
 
-<details open>
+<details>
   <summary><b>🏗️ High Level Design</b></summary>
 
 <br/>
